@@ -7,11 +7,6 @@ import CalculatorViewPort from './calcInput';
 export default function IndexInterFace(): JSX.Element {
    
    
-   
-   
-   
-
-
 
 
    
