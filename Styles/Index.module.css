@@ -1,0 +1,40 @@
+.index{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 75%;    
+    width: 25%;
+
+    background-color: rgb(249, 249, 249);
+
+    border-radius: 10px;
+    border: 3px solid rgb(97, 97, 97);
+    margin: 0 auto;
+
+
+
+}
+
+
+.calculator_viewport {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    width: 100%;
+}
+
+.calculator_input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+    width: 100%;
+}
+
+
+
